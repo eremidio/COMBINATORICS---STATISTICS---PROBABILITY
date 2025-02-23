@@ -16,7 +16,9 @@ THESE AREAS ARE VERY IMPORTANT AND FOUNDATIONAL IN COMPUTER SCIENCE IN GENERAL. 
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 THIS REPOSITORY WILL ONLY COVER SOME BASIC ASPECTS AND THE READER INTERESTED CAN CONSULT THE FOLLOWING BIBLIOGRAPHY:
+
 The Art of Computer Programming, volumes 2,3,4a, 4b by D. E. Knuth
+
 Combinatorics by  N. Ya. Vilenkin 
 
 
