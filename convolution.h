@@ -19,6 +19,7 @@ ESTE CONCEITO É GENERALIZADO PARA CONJUNTOS E FUNÇÕES CONTÍNUAS E É DE IMPO
 ÁREAS COMO: TRANSFORMADAS INTEGRAIS, ESTATÍSTICA, ENTRE OUTRAS.
 
 PARA MAIORES INFORMAÇÕES: https://en.wikipedia.org/wiki/Convolution
+                          https://lloydrochester.com/post/c/convolution/
 
 */
 
