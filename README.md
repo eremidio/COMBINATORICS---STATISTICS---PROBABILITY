@@ -16,6 +16,8 @@ THIS REPOSITORY WILL COVER ONLY SOME BASIC ASPECTS (I'M NOT A PROFESSIONAL MATHE
 
 The Art of Computer Programming, volumes 2,3,4a, 4b by D. E. Knuth
 
+Concrete Mathematics by D. E. Knuth, R. L. Graham and O. Patashnik
+
 Combinatorics by  N. Ya. Vilenkin 
 
 
