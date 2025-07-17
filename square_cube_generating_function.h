@@ -64,7 +64,7 @@ polynomial<T> compute_perfect_square_generating_function(uint64_t n){
       result = result+ adder;
       
       //Removendo termos com expoentes elevados
-      if((result.degree())>(n+30)){
+      if((i&31)<1){
         for(auto it=result.monomials.begin(); it!=result.monomials.end();){
           if((it->first)>n)
             it = result.monomials.erase(it);
@@ -128,7 +128,7 @@ polynomial<T> compute_perfect_cube_generating_function(uint64_t n){
       result = result+ adder;
       
       //Removendo termos com expoentes elevados
-      if((result.degree())>(n+30)){
+      if((i&31)<1){
         for(auto it=result.monomials.begin(); it!=result.monomials.end();){
           if((it->first)>n)
             it = result.monomials.erase(it);
