@@ -12,7 +12,7 @@ NA CONSTRUÇÃO DA ESPIRAL PLÁSTICA E DO PENTÁGONO PLÁSTICO; ALÉM DE SER EMP
 A CONSTANTE ρ É USADA NA CONSTRUÇÃO DE CERTAS SEQUÊNCIAS NÚMERICAS (VAN DER LAAN, PERRIN) QUE PODEM SER USADAS EM TESTES DE
 PRIMALIDADE E ESTÁ CONECTADA DIRETAMENTE A FUNÇÕES MODULARES COMO A FUNÇÃO INVARIANTE j(τ), A FUNÇÃO f(τ) DE RAMANUJAN-WEBER, A FUNÇÃO
 ETA η(τ) DE DEDEKIND E A FUNÇÃO MODULAR λ(τ). EXISTE UMA EXPRESSÃO EXATA PARA ρ EM TERMOS DE FUNÇÕES HIPERBÓLICAS
-ρ=(2√3){cosh[(1/3)acosh((3√3)/2)]}.
+ρ=(2√3){cosh[(1/3)arcosh((3√3)/2)]}.
 
 
 PARA MAIORES INFORMAÇÕES: https://en.wikipedia.org/wiki/Plastic_ratio#Properties
@@ -22,7 +22,7 @@ PARA MAIORES INFORMAÇÕES: https://en.wikipedia.org/wiki/Plastic_ratio#Properti
 
 
 //*******************************************************************************************************************************************
-//DECLARAÇÃO DE FUNÇÕES
+//CABEÇALHO
 #ifndef PLASTIC_RATIO_H
 #define PLASTIC_RATIO_H
 #include<stdio.h>
